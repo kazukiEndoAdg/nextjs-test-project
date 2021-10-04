@@ -1,6 +1,6 @@
 import { GetServerSidePropsContext, InferGetServerSidePropsType, } from "next";
 import React, { useEffect, useState } from "react";
-import request from "./../utils/axios";
+import request from "../../utils/axios";
 // CSSはCSSmoduleとして読み込むので、↓の命名規則で名前をつけ、↓のimport文で読み込む。
 import styles from './sample.module.css';
 import Link from 'next/link'
