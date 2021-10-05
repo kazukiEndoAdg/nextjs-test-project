@@ -20,7 +20,7 @@ const Home: NextPage = () => {
 
         <h2>YYYYYYYAAAAAAAA</h2>
         <Link href="/sample">
-          <a>Go to Sample</a>
+          <a className={styles.transition_link}>Go to Sample Page</a>
         </Link>
 
         <p className={styles.description}>

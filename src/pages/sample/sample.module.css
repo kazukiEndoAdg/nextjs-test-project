@@ -2,3 +2,14 @@
   height: 80px;
   background: coral;
 }
+
+.transition_link {
+  font-size: 4vw;
+  color: coral;
+  text-decoration: underline;
+}
+
+.container {
+  margin: 0 16vw;
+  text-align: center;
+}
